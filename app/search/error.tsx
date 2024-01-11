@@ -30,7 +30,7 @@ export default function Error({
         <Link href={"/"}>
         <Button variant="outline" size="lg">
         <p className="text-sm text-muted-foreground">
-          Go Back to Home
+        Error : Go Back to Home
           </p>
         </Button>
         </Link>
