@@ -1,5 +1,4 @@
-
-<img width="1980" alt="Screenshot 2023-10-29 at 13 39 22" src="https://github.com/DariusLukasukas/nextjs-weather-app/assets/64962012/dcad0360-77b0-4f70-bc2e-0c0bf04c1d8c">
+<img width="1219" alt="Screenshot 2024-01-11 at 6 26 17 PM" src="https://github.com/ParthAhuja143/flexiple/assets/43706009/24f0c9f5-70e5-46d7-b3d5-39effdeb7cf0">
 
 # To start
 
